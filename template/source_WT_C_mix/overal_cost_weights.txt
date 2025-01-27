@@ -1,0 +1,5 @@
+			1
+pop_weight       	0.4
+div_t_weight        	0.2
+init_compos_weight      0.2
+stat_weight         	0.2

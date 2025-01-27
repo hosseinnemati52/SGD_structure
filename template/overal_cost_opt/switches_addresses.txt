@@ -1,0 +1,15 @@
+nondim_quantity		line_word					update_switch	begin_char	end_char	factor
+a_tilde			barrierPeakCoef				1				=			\n			+1
+eta_phi_tilde		typeSigmaPhi				1				[			,			+1
+eta_phi_tilde		typeSigmaPhi				1				,			]			+1
+eta_psi_tilde		typeSigmaFit				1				[			,			+1
+eta_psi_tilde		typeSigmaFit				1				,			]			+1
+psi_w			Fit_Th_Wall				1				=			\n			+1
+psi_g0			Fit_Th_G0				1				=			\n			+1
+M_tilde			typeOmega				1				,			]			+1
+delta_tilde		typeTypePayOff_mat_real_C		1				,			];[			-1
+epsilon_tilde		typeTypePayOff_mat_real_C		1				];[			,			+1
+lambda_tilde		typeTypePayOff_mat_real_F1		0				[[			,			-1
+lambda_tilde		typeTypePayOff_mat_real_F2		0				[[			,			+1
+nu_tilde		typeTypePayOff_mat_real_F1		0				,			]]			-1
+nu_tilde		typeTypePayOff_mat_real_F2		0				,			]]			+1
